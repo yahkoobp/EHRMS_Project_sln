@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHRMS_Project", "EHRMS_Project\EHRMS_Project.csproj", "{ECD997AE-C9BF-4C9D-AF6A-9473D1232AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD997AE-C9BF-4C9D-AF6A-9473D1232AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD997AE-C9BF-4C9D-AF6A-9473D1232AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD997AE-C9BF-4C9D-AF6A-9473D1232AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD997AE-C9BF-4C9D-AF6A-9473D1232AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD195E1-231B-4A5E-8670-466CBEEEEFCB}
+	EndGlobalSection
+EndGlobal
