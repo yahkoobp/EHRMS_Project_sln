@@ -12,14 +12,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace EHRMS_Project.Pages
+namespace EHRMS_Project.Pages.MedicationManager
 {
     /// <summary>
-    /// Interaction logic for MedicationPageWindow.xaml
+    /// Interaction logic for NewMedication.xaml
     /// </summary>
-    public partial class MedicationPageWindow : Window
+    public partial class NewMedication : Window
     {
-        public MedicationPageWindow()
+        public NewMedication()
         {
             InitializeComponent();
         }
