@@ -36,8 +36,6 @@
                 <DataGridTextColumn Header="Frequency"/>
                 <DataGridTextColumn Header="Prescribed by"/>
                 <DataGridTextColumn Header="Created At"/>
-
-
             </DataGrid.Columns>
         </DataGrid>
         <Button Grid.Row="3" Content="Update" Width="200" Height="30"
